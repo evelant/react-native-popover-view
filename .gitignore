@@ -35,3 +35,6 @@ npm-debug.log
 # yarn
 #
 /.yarn/install-state.gz
+
+# Jetbrains
+.idea
